@@ -1,7 +1,7 @@
 # Perl-Alfa-Rce
 
 ## About tools
-This tools only working for filename `perl.alfa` but doesn't all it's work and this tools can mass targets also single target . I hope you all enjoy it :)
+This tools only working for filename `perl.alfa` but doesn't all it's work and this tools can mass targets also single target . If Code execution successfully the tool will saved as `results.txt` . I hope you all enjoy it :)
 
 ## Usage
 
