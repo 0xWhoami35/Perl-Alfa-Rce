@@ -26,7 +26,7 @@ options:
 
 ## Example Usage:
 
-`python3 exploit.py -u https://example.com/ALFA_DATA/alfacgiapi/perl.alfa`
+`python3 exploit.py -u https://example.com/ALFA_DATA/alfacgiapi/perl.alfa -c ls`
 
 ## Disclaimer
 
