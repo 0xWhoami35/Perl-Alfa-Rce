@@ -24,6 +24,10 @@ options:
 ![image](https://github.com/0xWhoami35/Perl-Alfa-Rce/assets/107396843/94b051cf-40e4-48f9-93a4-718de1bccd6b)
 
 
+## Example Usage:
+
+`python3 exploit.py -u https://example.com/ALFA_DATA/alfacgiapi/perl.alfa`
+
 ## Disclaimer
 
 Educational Purpose only !!
